@@ -1,4 +1,5 @@
-## 🌳 GROOT: Graph Edge Re-growth and Partitioning...
+## GROOT: Graph Edge Re-growth and Partitioning for the
+Verification of Large Designs in Logic Synthesis
 ---
 ### 📄 Abstract
 
