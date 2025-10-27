@@ -1,5 +1,4 @@
-## GROOT: Graph Edge Re-growth and Partitioning for the
-Verification of Large Designs in Logic Synthesis
+## GROOT: Graph Edge Re-growth and Partitioning for the Verification of Large Designs in Logic Synthesis
 ---
 ### 📄 Abstract
 
@@ -33,3 +32,6 @@ a batch size of 16, which consists of 134,103,040 nodes and
 Kernel designs SOTAs such as cuSPARSE, MergePath-SpMM,
 and GNNAdvisor. We achieve up to 1.104×, 5.796×, and 1.469×
 improvement in runtime, respectively.
+
+
+### Codes are coming soon
